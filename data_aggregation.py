@@ -92,8 +92,12 @@ def temporal_aggregation(df_timeseries, output_dir, output_name):
   df_monthly.to_csv(output_dir + output_name + '_monthly.csv')
 
 
-def main(dictionary, gdf_countries, gdf, output_dir):
+def main(tweets_file, output_dir):
     
+    dictionary = pd.read_excel('./dictionary/dictionary.xlsx', sheet_name=None)
+    gdf_countries = gpd.read_file('./data/geo/countries.geojson')
+    gdf = load_tweets(tweets_file, dictionary, gdf_countries)
+
     topics_options = {
         'All': list(dictionary.keys()),
         'Blockchain_NFT_Crypto': ['blockchain', 'NFT', 'crypto'],
@@ -130,9 +134,11 @@ def main(dictionary, gdf_countries, gdf, output_dir):
 
 if __name__ == '__main__':
 
-    dictionary = pd.read_excel('./dictionary/dictionary.xlsx', sheet_name=None)
-    gdf_countries = gpd.read_file('./data/geo/countries.geojson')
-    # Please change the path to the Parquet file
-    gdf = load_tweets('Path_to_Parquet_File', dictionary, gdf_countries)
+    ''' The Parquet file of tweets 
+    has not been uploaded to GitHub due to the file size limit,
+    but all aggregated results are available in './data/tweets_aggregation/'.
+    This script just shows the data aggregation process.
+    '''
+    tweets_file = 'path_to_the_parquet_file'
     output_dir = './data/tweets_aggregation/'
-    main(dictionary, gdf_countries, gdf, output_dir)
+    main(tweets_file, output_dir)
