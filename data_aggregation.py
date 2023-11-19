@@ -103,7 +103,7 @@ def main(dictionary, gdf_countries, gdf, output_dir):
         'Dogecoin': ['Dogecoin'],
         'Ripple': ['Ripple'],
         'Litecoin': ['Litecoin'],
-        'USD Coin': ['USD Coin'],
+        'USDC': ['USDC'],
         'Tether': ['Tether'],
         'Cardano': ['Cardano'],
         'Solana': ['Solana'],
