@@ -33,7 +33,6 @@ USD코인
 cadena de bloques
 Binance
 #USDC
-#ETH
 ريبل
 Ripple
 بينانس
