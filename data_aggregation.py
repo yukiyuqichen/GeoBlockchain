@@ -126,10 +126,7 @@ def main(tweets_file, output_dir):
         output_name = key.lower()
         topics = value
 
-        if key == 'All':
-            gdf_topic = gdf
-        else:
-            gdf_topic = retrieve_tweets_by_keywords(topics, dictionary, gdf)
+        gdf_topic = retrieve_tweets_by_keywords(topics, dictionary, gdf)
 
         # Spatial aggregation
         spatial_aggregation_country(gdf_topic, gdf_countries, output_dir, output_name)
