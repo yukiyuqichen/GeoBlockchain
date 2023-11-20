@@ -73,6 +73,12 @@ def spatial_aggregation_country(gdf_topic, gdf_countries, output_dir, output_nam
 
 
 def temporal_aggregation(df_timeseries, output_dir, output_name):
+  
+  try:
+    df_timeseries['date'] = pd.to_datetime(df_timeseries['date'])
+    df_timeseries.set_index('date', inplace=True)
+  except:
+    pass
 
   df_timeseries = df_timeseries.sort_index()
   df_timeseries['score'] = df_timeseries['score'].astype(float)
