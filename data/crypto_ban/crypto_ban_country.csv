@@ -1,0 +1,146 @@
+ADMIN,ISO_A3,ban_status_nominal,ban_status_binary,ban_status_ordinal
+Afghanistan,AFG,,,
+Angola,AGO,,,
+Albania,ALB,,,
+Argentina,ARG,Partial Ban,1,0.5
+American Samoa,ASM,,,
+Australia,AUS,Legal,0,0
+Austria,AUT,,,
+Azerbaijan,AZE,,,
+Burundi,BDI,,,
+Belgium,BEL,,,
+Benin,BEN,,,
+Burkina Faso,BFA,,,
+Bangladesh,BGD,General Ban,1,1
+Bulgaria,BGR,,,
+Bosnia and Herzegovina,BIH,,,
+Belarus,BLR,Legal,0,0
+Bolivia,BOL,General Ban,1,1
+Brazil,BRA,Legal,0,0
+Brunei,BRN,,,
+Bhutan,BTN,,,
+Botswana,BWA,,,
+Central African Republic,CAF,,,
+Canada,CAN,Legal,0,0
+Switzerland,CHE,,,
+Chile,CHL,Legal,0,0
+China,CHN,General Ban,1,1
+Cameroon,CMR,,,
+Democratic Republic of the Congo,COD,,,
+Republic of Congo,COG,,,
+Colombia,COL,Partial Ban,1,0.5
+Costa Rica,CRI,,,
+Cuba,CUB,,,
+Czech Republic,CZE,Legal,0,0
+Germany,DEU,Legal,0,0
+Djibouti,DJI,,,
+Denmark,DNK,Legal,0,0
+Dominican Republic,DOM,Partial Ban,1,0.5
+Algeria,DZA,General Ban,1,1
+Ecuador,ECU,Partial Ban,1,0.5
+Egypt,EGY,Legal,0,0
+Spain,ESP,Legal,0,0
+Estonia,EST,,,
+Ethiopia,ETH,,,
+Finland,FIN,,,
+Fiji,FJI,,,
+France,FRA,Legal,0,0
+Faroe Islands,FRO,,,
+Gabon,GAB,,,
+United Kingdom,GBR,Legal,0,0
+Georgia,GEO,Legal,0,0
+Ghana,GHA,Partial Ban,1,0.5
+Guinea,GIN,,,
+Gambia,GMB,,,
+Equatorial Guinea,GNQ,,,
+Greece,GRC,,,
+Guatemala,GTM,,,
+Guyana,GUY,,,
+Honduras,HND,,,
+Croatia,HRV,Partial Ban,1,0.5
+Haiti,HTI,,,
+Hungary,HUN,Legal,0,0
+Indonesia,IDN,Partial Ban,1,0.5
+Isle of Man,IMN,,,
+India,IND,Partial Ban,1,0.5
+Iran,IRN,Partial Ban,1,0.5
+Iraq,IRQ,,,
+Iceland,ISL,,,
+Italy,ITA,Legal,0,0
+Jordan,JOR,,,
+Japan,JPN,Legal,0,0
+Kazakhstan,KAZ,,,
+Kenya,KEN,Legal,0,0
+Kyrgyzstan,KGZ,,,
+Cambodia,KHM,Legal,0,0
+South Korea,KOR,Partial Ban,1,0.5
+Laos,LAO,,,
+Lebanon,LBN,,,
+Liberia,LBR,,,
+Sri Lanka,LKA,,,
+Lithuania,LTU,,,
+Luxembourg,LUX,,,
+Latvia,LVA,,,
+Morocco,MAR,General Ban,1,1
+Madagascar,MDG,,,
+Mexico,MEX,Partial Ban,1,0.5
+Mali,MLI,,,
+Myanmar,MMR,,,
+Mongolia,MNG,,,
+Mozambique,MOZ,,,
+Mauritania,MRT,,,
+Malawi,MWI,,,
+Malaysia,MYS,Legal,0,0
+Namibia,NAM,,,
+New Caledonia,NCL,,,
+Niger,NER,,,
+Nigeria,NGA,Partial Ban,1,0.5
+Nicaragua,NIC,,,
+Netherlands,NLD,Legal,0,0
+Norway,NOR,,,
+Nepal,NPL,General Ban,1,1
+New Zealand,NZL,,,
+Oman,OMN,,,
+Pakistan,PAK,General Ban,1,1
+Panama,PAN,,,
+Peru,PER,Legal,0,0
+Philippines,PHL,Legal,0,0
+Papua New Guinea,PNG,,,
+Poland,POL,Legal,0,0
+Portugal,PRT,,,
+Paraguay,PRY,,,
+Romania,ROU,Legal,0,0
+Russia,RUS,Partial Ban,1,0.5
+Rwanda,RWA,Partial Ban,1,0.5
+Sudan,SDN,,,
+South Sudan,SSD,,,
+Senegal,SEN,,,
+Solomon Islands,SLB,,,
+Sierra Leone,SLE,,,
+El Salvador,SLV,,,
+Somalia,SOM,,,
+Suriname,SUR,,,
+Slovakia,SVK,,,
+Slovenia,SVN,,,
+Sweden,SWE,,,
+Swaziland,SWZ,,,
+Syria,SYR,,,
+Chad,TCD,,,
+Togo,TGO,,,
+Thailand,THA,Partial Ban,1,0.5
+Tajikistan,TJK,,,
+Tunisia,TUN,General Ban,1,1
+Turkey,TUR,Partial Ban,1,0.5
+Uganda,UGA,,,
+Ukraine,UKR,Legal,0,0
+Uruguay,URY,,,
+United States of America,USA,Legal,0,0
+Uzbekistan,UZB,,,
+Venezuela,VEN,,,
+Vietnam,VNM,Partial Ban,1,0.5
+Vanuatu,VUT,,,
+Samoa,WSM,,,
+Yemen,YEM,,,
+South Africa,ZAF,Legal,0,0
+Zambia,ZMB,,,
+Zimbabwe,ZWE,Partial Ban,1,0.5
