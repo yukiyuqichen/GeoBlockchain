@@ -59,21 +59,35 @@ def retrieve_tweets_by_keywords(topics, dictionary, gdf):
 
 def spatial_aggregation_country(gdf_topic, gdf_countries, output_dir, output_name):
 
-  # Calculate the number of tweets with keyword in each country
-  point_count = gdf_topic.groupby('ISO_A3').size().reset_index(name='tweets_count')
-  gdf_topic_countries = gdf_countries.merge(point_count, on='ISO_A3', how='left')
+  gdf_topic['date'] = pd.to_datetime(gdf_topic['date'])
+  gdf_topic.set_index('date', inplace=True)
 
-  # Calculate the mean sentiment score of tweents with keyword in each country
+  # For all years
+  ## Calculate the number of tweets with keyword in each country
+  point_count = gdf_topic.groupby('ISO_A3').size().reset_index(name='tweets_count_total')
+  gdf_topic_countries = gdf_countries.merge(point_count, on='ISO_A3', how='left')
+  ## Calculate the mean sentiment score of tweents with keyword in each country
   gdf_topic['score'] = gdf_topic['score'].astype(float)
-  mean_score = gdf_topic.groupby('ISO_A3')['score'].mean().reset_index(name='score')
+  mean_score = gdf_topic.groupby('ISO_A3')['score'].mean().reset_index(name='score_total')
   gdf_topic_countries = gdf_topic_countries.merge(mean_score, on='ISO_A3', how='left')
 
-  # Save as a geojson file
+  # For each year
+  for year in range(2012, 2024):
+    gdf_topic_year = gdf_topic[gdf_topic.index.year == year]
+    ## Calculate the number of tweets with keyword in each country
+    point_count = gdf_topic_year.groupby('ISO_A3').size().reset_index(name='tweets_count_' + str(year))
+    gdf_topic_countries = gdf_topic_countries.merge(point_count, on='ISO_A3', how='left')
+    ## Calculate the mean sentiment score of tweents with keyword in each country
+    gdf_topic_year['score'] = gdf_topic_year['score'].astype(float)
+    mean_score = gdf_topic_year.groupby('ISO_A3')['score'].mean().reset_index(name='score_' + str(year))
+    gdf_topic_countries = gdf_topic_countries.merge(mean_score, on='ISO_A3', how='left')
+
+  ## Save as a geojson file
   gdf_topic_countries.to_file(output_dir + output_name + '_country.geojson', driver='GeoJSON')
 
 
 def temporal_aggregation(df_timeseries, output_dir, output_name):
-  
+
   try:
     df_timeseries['date'] = pd.to_datetime(df_timeseries['date'])
     df_timeseries.set_index('date', inplace=True)
