@@ -1,0 +1,146 @@
+index,ADMIN,ISO_A3,cluster
+1,Afghanistan,AFG,1
+2,Angola,AGO,1
+4,Albania,ALB,2
+8,Argentina,ARG,1
+10,American Samoa,ASM,1
+15,Australia,AUS,2
+16,Austria,AUT,2
+17,Azerbaijan,AZE,1
+18,Burundi,BDI,0
+19,Belgium,BEL,2
+20,Benin,BEN,0
+21,Burkina Faso,BFA,0
+22,Bangladesh,BGD,0
+23,Bulgaria,BGR,0
+26,Bosnia and Herzegovina,BIH,2
+29,Belarus,BLR,1
+32,Bolivia,BOL,1
+33,Brazil,BRA,1
+35,Brunei,BRN,2
+36,Bhutan,BTN,0
+37,Botswana,BWA,1
+38,Central African Republic,CAF,1
+39,Canada,CAN,2
+40,Switzerland,CHE,2
+41,Chile,CHL,2
+42,China,CHN,2
+45,Cameroon,CMR,0
+47,Democratic Republic of the Congo,COD,0
+48,Republic of Congo,COG,1
+50,Colombia,COL,1
+53,Costa Rica,CRI,2
+55,Cuba,CUB,0
+60,Czech Republic,CZE,2
+61,Germany,DEU,2
+62,Djibouti,DJI,1
+64,Denmark,DNK,2
+65,Dominican Republic,DOM,1
+66,Algeria,DZA,1
+67,Ecuador,ECU,1
+68,Egypt,EGY,1
+71,Spain,ESP,2
+72,Estonia,EST,2
+73,Ethiopia,ETH,1
+74,Finland,FIN,2
+75,Fiji,FJI,1
+77,France,FRA,2
+78,Faroe Islands,FRO,2
+80,Gabon,GAB,0
+81,United Kingdom,GBR,2
+82,Georgia,GEO,0
+84,Ghana,GHA,1
+86,Guinea,GIN,1
+87,Gambia,GMB,1
+89,Equatorial Guinea,GNQ,1
+90,Greece,GRC,2
+93,Guatemala,GTM,1
+95,Guyana,GUY,1
+98,Honduras,HND,1
+99,Croatia,HRV,2
+100,Haiti,HTI,1
+101,Hungary,HUN,2
+102,Indonesia,IDN,0
+103,Isle of Man,IMN,2
+104,India,IND,0
+108,Iran,IRN,2
+109,Iraq,IRQ,1
+110,Iceland,ISL,2
+112,Italy,ITA,2
+115,Jordan,JOR,1
+116,Japan,JPN,2
+119,Kazakhstan,KAZ,2
+120,Kenya,KEN,1
+121,Kyrgyzstan,KGZ,1
+122,Cambodia,KHM,0
+125,South Korea,KOR,2
+128,Laos,LAO,0
+129,Lebanon,LBN,2
+130,Liberia,LBR,1
+134,Sri Lanka,LKA,0
+136,Lithuania,LTU,2
+137,Luxembourg,LUX,2
+138,Latvia,LVA,2
+141,Morocco,MAR,0
+144,Madagascar,MDG,0
+146,Mexico,MEX,1
+149,Mali,MLI,1
+151,Myanmar,MMR,0
+153,Mongolia,MNG,1
+155,Mozambique,MOZ,1
+156,Mauritania,MRT,1
+159,Malawi,MWI,1
+160,Malaysia,MYS,1
+161,Namibia,NAM,1
+162,New Caledonia,NCL,2
+163,Niger,NER,1
+165,Nigeria,NGA,0
+166,Nicaragua,NIC,1
+168,Netherlands,NLD,2
+169,Norway,NOR,2
+170,Nepal,NPL,1
+172,New Zealand,NZL,2
+173,Oman,OMN,1
+174,Pakistan,PAK,0
+175,Panama,PAN,2
+177,Peru,PER,1
+179,Philippines,PHL,0
+181,Papua New Guinea,PNG,1
+182,Poland,POL,2
+185,Portugal,PRT,2
+186,Paraguay,PRY,1
+190,Romania,ROU,0
+191,Russia,RUS,2
+192,Rwanda,RWA,0
+196,Sudan,SDN,1
+197,South Sudan,SSD,1
+198,Senegal,SEN,1
+203,Solomon Islands,SLB,0
+204,Sierra Leone,SLE,0
+205,El Salvador,SLV,2
+208,Somalia,SOM,1
+212,Suriname,SUR,0
+213,Slovakia,SVK,2
+214,Slovenia,SVN,2
+215,Sweden,SWE,2
+216,Swaziland,SWZ,1
+219,Syria,SYR,0
+221,Chad,TCD,1
+222,Togo,TGO,0
+223,Thailand,THA,2
+224,Tajikistan,TJK,1
+229,Tunisia,TUN,1
+230,Turkey,TUR,2
+234,Uganda,UGA,1
+235,Ukraine,UKR,0
+237,Uruguay,URY,1
+238,United States of America,USA,2
+240,Uzbekistan,UZB,0
+243,Venezuela,VEN,2
+246,Vietnam,VNM,0
+247,Vanuatu,VUT,1
+250,Samoa,WSM,0
+251,Yemen,YEM,1
+252,South Africa,ZAF,1
+253,Zambia,ZMB,1
+254,Zimbabwe,ZWE,1
