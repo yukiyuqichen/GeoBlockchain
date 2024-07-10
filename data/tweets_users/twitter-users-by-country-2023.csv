@@ -1,0 +1,220 @@
+country,Alpha-2 code,Alpha-3 code,TwitterUsersTotal2023
+India,IN,IND,27250000
+United States,US,USA,95400000
+Indonesia,ID,IDN,24000000
+Pakistan,PK,PAK,4650000
+Nigeria,NG,NGA,4950000
+Brazil,BR,BRA,24300000
+Bangladesh,BD,BGD,1050000
+Russia,RU,RUS,767700
+Ethiopia,ET,ETH,91800
+Mexico,MX,MEX,17200000
+Japan,JP,JPN,67450000
+Philippines,PH,PHL,11800000
+Egypt,EG,EGY,5800000
+DR Congo,CD,COD,248700
+Vietnam,VN,VNM,4100000
+Turkey,TR,TUR,18550000
+Germany,DE,DEU,14100000
+Thailand,TH,THA,14600000
+Tanzania,TZ,TZA,594800
+United Kingdom,GB,GBR,23150000
+France,FR,FRA,13700000
+South Africa,ZA,ZAF,3650000
+Italy,IT,ITA,5450000
+Kenya,KE,KEN,1900000
+Colombia,CO,COL,5600000
+South Korea,KR,KOR,9800000
+Uganda,UG,UGA,601200
+Spain,ES,ESP,10850000
+Iraq,IQ,IRQ,2500000
+Algeria,DZ,DZA,1150000
+Argentina,AR,ARG,7550000
+Afghanistan,AF,AFG,319100
+Poland,PL,POL,4000000
+Canada,CA,CAN,10400000
+Morocco,MA,MAR,1050000
+Ukraine,UA,UKR,595900
+Angola,AO,AGO,104600
+Saudi Arabia,SA,SAU,15500000
+Uzbekistan,UZ,UZB,148700
+Yemen,YE,YEM,858100
+Mozambique,MZ,MOZ,78200
+Ghana,GH,GHA,1150000
+Peru,PE,PER,2750000
+Malaysia,MY,MYS,5500000
+Nepal,NP,NPL,553600
+Madagascar,MG,MDG,34100
+Ivory Coast,CI,CIV,181200
+Venezuela,VE,VEN,1900000
+Cameroon,CM,CMR,204200
+Niger,NE,NER,38500
+Australia,AU,AUS,5250000
+Mali,ML,MLI,89800
+Taiwan,TW,TWN,3700000
+Burkina Faso,BF,BFA,77800
+Sri Lanka,LK,LKA,373100
+Malawi,MW,MWI,70200
+Zambia,ZM,ZMB,154500
+Kazakhstan,KZ,KAZ,384900
+Chile,CL,CHL,3650000
+Romania,RO,ROU,1250000
+Chad,TD,TCD,28300
+Somalia,SO,SOM,133500
+Ecuador,EC,ECU,1800000
+Guatemala,GT,GTM,896100
+Senegal,SN,SEN,300000
+Netherlands,NL,NLD,7550000
+Cambodia,KH,KHM,393200
+Zimbabwe,ZW,ZWE,323200
+Guinea,GN,GIN,67400
+Rwanda,RW,RWA,218400
+Benin,BJ,BEN,97000
+Burundi,BI,BDI,37700
+Bolivia,BO,BOL,608900
+Tunisia,TN,TUN,341700
+Haiti,HT,HTI,160800
+Belgium,BE,BEL,1900000
+Dominican Republic,DO,DOM,852600
+Jordan,JO,JOR,921900
+Honduras,HN,HND,516400
+Sweden,SE,SWE,2100000
+Papua New Guinea,PG,PNG,14100
+Czech Republic,CZ,CZE,1400000
+Azerbaijan,AZ,AZE,304500
+Tajikistan,TJ,TJK,22800
+Greece,GR,GRC,938100
+Portugal,PT,PRT,1900000
+Hungary,HU,HUN,779900
+United Arab Emirates,AE,ARE,3050000
+Belarus,BY,BLR,230900
+Israel,IL,ISR,1050000
+Togo,TG,TGO,73100
+Sierra Leone,SL,SLE,52100
+Austria,AT,AUT,1150000
+Switzerland,CH,CHE,1400000
+Laos,LA,LAO,238500
+Hong Kong,HK,HKG,4200000
+Nicaragua,NI,NIC,267600
+Serbia,RS,SRB,603800
+Libya,LY,LBY,548100
+Paraguay,PY,PRY,725400
+Kyrgyzstan,KG,KGZ,112800
+Bulgaria,BG,BGR,526700
+Turkmenistan,TM,TKM,2650
+El Salvador,SV,SLV,708700
+Republic of the Congo,CG,COG,33500
+Singapore,SG,SGP,5550000
+Denmark,DK,DNK,940100
+Central African Republic,CF,CAF,5900
+Slovakia,SK,SVK,385300
+Finland,FI,FIN,1500000
+Liberia,LR,LBR,25200
+Norway,NO,NOR,1050000
+New Zealand,NZ,NZL,791700
+Costa Rica,CR,CRI,678900
+Lebanon,LB,LBN,531000
+Ireland,IE,IRL,1700000
+Mauritania,MR,MRT,53400
+Oman,OM,OMN,990900
+Panama,PA,PAN,642800
+Kuwait,KW,KWT,1600000
+Croatia,HR,HRV,298000
+Eritrea,ER,ERI,700
+Georgia,GE,GEO,248800
+Mongolia,MN,MNG,151000
+Uruguay,UY,URY,703000
+Moldova,MD,MDA,112300
+Puerto Rico,PR,PRI,853500
+Bosnia and Herzegovina,BA,BIH,113600
+Gambia,GM,GMB,31200
+Albania,AL,ALB,136900
+Jamaica,JM,JAM,343400
+Armenia,AM,ARM,92800
+Qatar,QA,QAT,1050000
+Botswana,BW,BWA,104100
+Lithuania,LT,LTU,389000
+Namibia,NA,NAM,94400
+Gabon,GA,GAB,33200
+Lesotho,LS,LSO,28800
+Guinea-Bissau,GW,GNB,5150
+Slovenia,SI,SVN,209000
+North Macedonia,MK,MKD,131600
+Latvia,LV,LVA,288100
+Equatorial Guinea,GQ,GNQ,10600
+Trinidad and Tobago,TT,TTO,129600
+Bahrain,BH,BHR,622900
+Timor-Leste,TL,TLS,7450
+Estonia,EE,EST,244600
+Mauritius,MU,MUS,129500
+Cyprus,CY,CYP,280300
+Eswatini,SZ,SWZ,31500
+Djibouti,DJ,DJI,18800
+Reunion,RE,REU,88600
+Fiji,FJ,FJI,35600
+Comoros,KM,COM,4500
+Guyana,GY,GUY,39300
+Bhutan,BT,BTN,20500
+Solomon Islands,SB,SLB,2100
+Macau,MO,MAC,102100
+Luxembourg,LU,LUX,430800
+Suriname,SR,SUR,31600
+Montenegro,ME,MNE,68500
+Cape Verde,CV,CPV,21000
+Western Sahara,EH,ESH,250
+Malta,MT,MLT,107900
+Maldives,MV,MDV,120000
+Brunei,BN,BRN,83900
+Belize,BZ,BLZ,47500
+Bahamas,BS,BHS,86700
+Guadeloupe,GP,GLP,58900
+Iceland,IS,ISL,123400
+Martinique,MQ,MTQ,67100
+Mayotte,YT,MYT,18300
+Vanuatu,VU,VUT,3050
+French Guiana,GF,GUF,28200
+French Polynesia,PF,PYF,15800
+New Caledonia,NC,NCL,14200
+Barbados,BB,BRB,68800
+Samoa,WS,WSM,3350
+Curacao,CW,CUW,28100
+Saint Lucia,LC,LCA,25800
+Guam,GU,GUM,43900
+Kiribati,KI,KIR,400
+Grenada,GD,GRD,15300
+Micronesia,FM,FSM,1350
+Tonga,TO,TON,1900
+Seychelles,SC,SYC,87000
+Aruba,AW,ABW,39600
+Saint Vincent and the Grenadines,VC,VCT,8100
+United States Virgin Islands,VI,VIR,25300
+Antigua and Barbuda,AG,ATG,26600
+Isle of Man,IM,IMN,30800
+Andorra,AD,AND,59400
+Dominica,DM,DMA,17800
+Cayman Islands,KY,CYM,25500
+Bermuda,BM,BMU,17700
+Greenland,GL,GRL,7600
+Faroe Islands,FO,FRO,6200
+Northern Mariana Islands,MP,MNP,6950
+Saint Kitts and Nevis,KN,KNA,12400
+Turks and Caicos Islands,TC,TCA,16100
+Sint Maarten,SX,SXM,13800
+American Samoa,AS,ASM,2200
+Marshall Islands,MH,MHL,1250
+Liechtenstein,LI,LIE,8550
+Monaco,MC,MCO,15900
+San Marino,SM,SMR,4400
+Gibraltar,GI,GIB,14800
+Saint Martin,MF,MAF,8650
+British Virgin Islands,VG,VGB,8100
+Palau,PW,PLW,2000
+Cook Islands,CK,COK,1150
+Anguilla,AI,AIA,4350
+Nauru,NR,NRU,350
+Tuvalu,TV,TUV,100
+Saint Barthelemy,BL,BLM,2450
+Saint Pierre and Miquelon,PM,SPM,650
+Montserrat,MS,MSR,1050
+Falkland Islands,FK,FLK,1050
+Niue,NU,NIU,100
