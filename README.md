@@ -5,9 +5,11 @@ Chen, Y., Li, Y., Zhou, Z., Fu, X., Liu, L., Bao, S., Sui, D., & Zhang, L. **Glo
 
 This study examines how public attention and sentiment towards decentralized finance (DeFi) vary across 150 countries using geo-tagged tweets from 2012 to 2022.
 <br>
+<br>
 
 ![Public attention toward DeFi across countries](https://github.com/yukiyuqichen/GeoBlockchain/raw/main/figures/spatial/maps/proportion_of_tweets_containing_any_keyword.png)
 <p align="center">Public attention toward DeFi across countries</p>
+<br>
 <br>
 
 ![Public sentiment toward DeFi across countries](https://github.com/yukiyuqichen/GeoBlockchain/raw/main/figures/spatial/maps/sentiment_score_of_tweets_with_any_keyword.png)
