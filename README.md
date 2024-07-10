@@ -8,8 +8,8 @@ This study examines how public attention and sentiment towards decentralized fin
 
 
 ![Public attention toward DeFi across countries](https://github.com/yukiyuqichen/GeoBlockchain/raw/main/figures/spatial/maps/proportion_of_tweets_containing_any_keyword.png)
-Public attention toward DeFi across countries
+<p align="center">Public attention toward DeFi across countries</p>
 
 
 ![Public sentiment toward DeFi across countries](https://github.com/yukiyuqichen/GeoBlockchain/raw/main/figures/spatial/maps/sentiment_score_of_tweets_with_any_keyword.png)
-Public sentiment toward DeFi across countries
+<p align="center">Public sentiment toward DeFi across countries</p>
