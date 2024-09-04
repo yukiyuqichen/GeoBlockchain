@@ -26,7 +26,7 @@ This repository provides access to the dataset, code, and analysis used in the s
 The materials in this repository are designed to replicate and expand upon the findings from the associated research paper. They include:
 
 - **Open Data Sources**: Access to geo-tagged tweet data and other relevant datasets used to analyze global public sentiment on decentralized finance.
-- **Code**: Scripts and Jupyter Notebooks for replicating key experiments and spatiotemporal analyses, including sentiment analysis using a BERT-based model and geographically weighted regression.
+- **Code**: Scripts and Jupyter Notebooks for replicating key experiments and spatiotemporal analyses, including geospatial sentiment analysis, geographically weighted regression, and topic analysis.
 - **Additional Resources**: Links to tools and tutorials for exploring non-code-based data science workflows, such as KNIME, to facilitate analysis for users from diverse technical backgrounds.
 
 
